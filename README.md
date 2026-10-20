@@ -20,7 +20,7 @@ The key technologies integrated in Kit-CAE include:
   including surfaces, volumes, and particles.
 - **Kit Application Framework**: Extensible UI, pixel streaming, and integration
   with the broader set of Omniverse libraries.
-
+openVBD:https://openusd.org/25.11/user_guides/schemas/usdVol/OpenVDBAsset.html
 Each technology can be used independently. The repository is structured to
 make that separation clear. Developers are encouraged to use Kit-CAE as a
 testbed for integrating their own tools with any of the enablement technologies
